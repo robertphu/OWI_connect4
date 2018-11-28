@@ -10,7 +10,7 @@ The original idea was to have the arm swing around on its base to collect the to
 
 Some example videos (as of Fall 2018):
 * [Short demo video](https://youtu.be/z_uBRQgi_jQ)
-* [Longer unedited game](https://youtu.be/t3T1_jiAGIA)
+* [Longer normal speed game](https://youtu.be/t3T1_jiAGIA)
 
 Example photo processing:
 ![ex0](https://github.com/robertphu/OWI_connect4/blob/master/color%20detection%20example%202.PNG)
