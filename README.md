@@ -1,6 +1,6 @@
 # OWI_connect4
 Written in MATLAB R2018b
-ECE 5397 Intro to Robotics Final Spring 2018
+ECE 5397 Intro to Robotics Final Fall 2018
 
 The OWI Robotic arm is controlled with an Arduino MEGA and has potentiometers attached to (almost) every joint to measure it's current position.
 
